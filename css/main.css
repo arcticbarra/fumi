@@ -1,0 +1,56 @@
+body {
+  background: url(https://images.unsplash.com/photo-1477747219299-60f95c811fef?dpr=2&auto=format&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb&crop=);
+  /*https://images.unsplash.com/photo-1457556675483-024ebaa3adb7?dpr=2&auto=format&fit=crop&w=1500&h=1016&q=80&cs=tinysrgb&crop=*/
+  background-size: cover;
+  background-position: center;
+  color: white;
+  font-family: Lato;
+}
+
+html {
+  height: 100%;
+}
+
+#content {
+  text-align: center;
+  padding-top: 25%;
+}
+
+nav {
+  font-size: 25%;
+  background: rgba(154, 8, 8, 1);
+}
+
+nav .brand-logo {
+  font-family: "Archivo Black";
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(255, 255, 255, 0.75), rgba(0, 0, 0, 0));
+}
+
+h1 {
+  font-size: 5em;
+  font-family: "Archivo Black";
+  text-shadow: 0px 4px 3px rgba(0,0,0,0.4), 0px 8px 13px rgba(0,0,0,0.1), 0px 18px 23px rgba(0,0,0,0.1);
+}
+
+h5 {
+  text-shadow: 0px 4px 3px rgba(0,0,0,0.4), 0px 8px 13px rgba(0,0,0,0.1), 0px 18px 23px rgba(0,0,0,0.1);
+}
+
+.fa .fa-cutlery {
+  font-size: 5em;
+}
+
+.btn-large {
+  color: white;
+  background-color: rgba(154, 8, 8, 1);
+}
+
+.btn-large:hover {
+  color: white;
+  background-color: rgb(241, 156, 55);
+}

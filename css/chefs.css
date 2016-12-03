@@ -1,0 +1,21 @@
+nav {
+  background: rgba(154, 8, 8, 1);
+}
+
+nav .brand-logo.center {
+  font-family: "Archivo Black";
+}
+
+h1 {
+  font-family: lato;
+  text-align: center;
+  font-weight: 700;
+}
+
+.pagination {
+  text-align: center;
+}
+
+.pagination li.active {
+  background-color: rgba(154, 8, 8, 1);
+}

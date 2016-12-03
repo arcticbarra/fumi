@@ -1,0 +1,25 @@
+nav {
+  font-size: 25%;
+  background: rgba(154, 8, 8, 1);
+  font-family: "Archivo Black";
+}
+
+.btn {
+  color: white;
+  background-color: rgba(154, 8, 8, 1);
+}
+
+.btn:hover {
+  color: white;
+  background-color: rgb(241, 156, 55);
+}
+
+h1 {
+  font-size: 5em;
+  font-weight: 700;
+  text-align: center;
+}
+
+body {
+  background-image: url("../img/bg2.png");
+}
