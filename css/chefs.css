@@ -4,7 +4,6 @@ nav {
 
 nav .brand-logo.center {
   font-family: "Archivo Black";
-  padding-left: 200px;
 }
 
 h1 {
@@ -21,6 +20,25 @@ h1 {
   background-color: rgba(154, 8, 8, 1);
 }
 
+#logo {
+  color: white;
+  font-family: "Archivo Black";
+}
+
 body {
   background-image: url("../img/bg2.png");
+}
+
+footer.page-footer{
+  background-color: rgba(154, 8, 8, 1);
+}
+
+.btn-large {
+  background: white;
+  color: black;
+}
+
+.btn-large:hover {
+  color: white;
+  background-color: rgb(241, 156, 55);
 }
