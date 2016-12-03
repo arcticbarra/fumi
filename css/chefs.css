@@ -4,6 +4,7 @@ nav {
 
 nav .brand-logo.center {
   font-family: "Archivo Black";
+  padding-left: 200px;
 }
 
 h1 {
@@ -18,4 +19,8 @@ h1 {
 
 .pagination li.active {
   background-color: rgba(154, 8, 8, 1);
+}
+
+body {
+  background-image: url("../img/bg2.png");
 }
